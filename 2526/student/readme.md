@@ -17,7 +17,7 @@
 | 5 | CHEW CHIU XIAN |  |  |  |  |
 | 6 | CHUA JIA LIN | ChuaJiaLin | [:octocat:](https://github.com/ChuaJiaLin) | <a href="[https://www.linkedin.com/in/chua-jia-lin-21921929a/](https://www.linkedin.com/in/chua-jia-lin-21921929a/)"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.xom/ChuaJiaLin/"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 7 | DAMIYA AINA BINTI BASIR ABD SHAMMAD |  |  |  |  |
-| 8 | DAYANG FARAH FARZANA BINTI ABANG IDHAM|  |  |  |  |
+| 8 | DAYANG FARAH FARZANA BINTI ABANG IDHAM| dayangfarah |  | https://www.linkedin.com/in/dayang-farah-farzana-abang-idham-a38957280/ |  |
 | 9 | ELIJAH SHE YU SHENG |  |  |  |  |
 |10 | EVELYN GOH YUAN QI |  |  |  |  |
 |11 | FARRA NURZAHIN BINTI ZAHARIL ANUAR |  |  |  |  |
